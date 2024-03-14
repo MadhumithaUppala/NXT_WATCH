@@ -1,0 +1,17 @@
+.flex {
+  display: flex;
+}
+
+.video-details-container {
+  flex-direction: column;
+  width: 45%;
+  position: absolute;
+  left: 13%;
+  top: 10%;
+}
+
+.video-details-container .single-page .pa {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}

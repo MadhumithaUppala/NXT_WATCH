@@ -1,0 +1,48 @@
+.trendingitem {
+  height: 325px;
+  width: 88%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.trending-item {
+  height: 300px;
+  width: 400px;
+}
+
+.viedo-title {
+  height: 50px;
+  width: 500px;
+  font-size: 20px;
+}
+
+.view-count {
+  font-size: 10px;
+}
+
+.channalname {
+  font-size: 10px;
+}
+
+.small-box {
+  height: 40%;
+  width: 50%;
+}
+
+.big-box {
+  height: 40%;
+  width: 38%;
+}
+
+.name {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50px;
+  width: 100px;
+}
+
+.publish {
+  font-size: 10px;
+}

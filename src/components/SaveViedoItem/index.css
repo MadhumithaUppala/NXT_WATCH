@@ -1,0 +1,13 @@
+.image-size {
+  height: 70%;
+  width: 90%;
+}
+
+.main-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.description-box {
+  width: 100%;
+}
